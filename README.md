@@ -11,6 +11,13 @@ Presentacion del primer proyecto grupal correspondiente a la materia de Electroi
 interruptor, una batería y un buzzer.
 3. Documentación del diseño en el repositorio del equipo en GitHub.
 
+Semana 2-3:Incorporación de circuitos electrónicos
+analógicos (OPA).
+1. Introducción a los amplificadores operacionales y su funcionamiento.
+2. Implementación de un circuito de alarma que reaccione a cambios de
+luz o temperatura usando OPA.
+3. Pruebas y ajustes del circuito. Documentación del proceso.
+
 ### Profesor
 - Cristian Gonzalo Vera | https://github.com/Gona79
 
@@ -34,6 +41,14 @@ interruptor, una batería y un buzzer.
 - **Presentación**
 
 ### Sprint Actual (#2): 
-Como equipo, queremos comprender los fundamentos de
-programación específicos para IoT y empezar a experimentar con módulos de
-desarrollo para establecer las bases de nuestro prototipo.
+- Estudiar el funcionamiento y aplicaciones de los amplificadores
+operacionales.
+- Seleccionar un OPA adecuado para el proyecto de alarma.
+- Diseñar un circuito de alarma mejorado que incluya un OPA.
+- Simular el nuevo diseño en Proteus.
+- Realizar el montaje del circuito en una protoboard.
+- Ajustar el circuito basándose en los resultados de la simulación y las
+pruebas físicas.
+- Documentar los cambios y las mejoras realizadas.
+- Presentar el proyecto mejorado al grupo, discutiendo los desafíos
+encontrados.
