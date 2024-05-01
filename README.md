@@ -10,3 +10,30 @@ Presentacion del primer proyecto grupal correspondiente a la materia de Electroi
 2. Diseño y construcción de un circuito simple de alarma utilizando un
 interruptor, una batería y un buzzer.
 3. Documentación del diseño en el repositorio del equipo en GitHub.
+
+### Profesor
+- Cristian Gonzalo Vera | https://github.com/Gona79
+
+### Miembros:
+- Luciano Lujan | GitHub: https://github.com/lucianoilujan
+- Joaquin Garzón | GitHub: https://github.com/Joacogarzonn
+- Durigutti, Vittorio | GitHub: https://github.com/vittoriodurigutti
+- Joaquin Zalazar | GitHub: https://github.com/breaakerr
+- Lisandro Juncos | GitHub: https://github.com Lisandro-05
+- Nahuel Velez | GitHub: https://github.com/ISPC-TST-PI-I-2024/ISPC_PI_Lucas_Nahuel_Velez 
+- Jose Marquez | GitHub: https://github.com/ISPC-TST-PI-I-2024/josemarquez.git
+- Tomas Repossi | GitHub:  https://github.com/TomasRepossi
+
+### Índice
+
+- **Requisitos**
+ 
+  Carpeta correspondiente a los requisitos del proyecto
+- **Investigación**
+- **Prototipo**
+- **Presentación**
+
+### Sprint Actual (#2): 
+Como equipo, queremos comprender los fundamentos de
+programación específicos para IoT y empezar a experimentar con módulos de
+desarrollo para establecer las bases de nuestro prototipo.
