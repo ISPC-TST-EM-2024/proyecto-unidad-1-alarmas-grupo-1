@@ -26,7 +26,7 @@ luz o temperatura usando OPA.
 - Joaquin Garzón | GitHub: https://github.com/Joacogarzonn
 - Durigutti, Vittorio | GitHub: https://github.com/vittoriodurigutti
 - Joaquin Zalazar | GitHub: https://github.com/breaakerr
-- Lisandro Juncos | GitHub: https://github.com Lisandro-05
+- Lisandro Juncos | GitHub: https://github.com/Lisandro-05
 - Nahuel Velez | GitHub: https://github.com/ISPC-TST-PI-I-2024/ISPC_PI_Lucas_Nahuel_Velez 
 - Jose Marquez | GitHub: https://github.com/ISPC-TST-PI-I-2024/josemarquez.git
 - Tomas Repossi | GitHub:  https://github.com/TomasRepossi
